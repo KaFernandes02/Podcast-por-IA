@@ -1,1 +1,13 @@
 # Podcast-por-IA
+
+## Prompt usado pela ELEVENLAB com a voz da Rachel:
+
+Olá, pessoal, e bem-vindos a mais um episódio do nosso podcast aqui no Canal IA! Hoje estamos prestes a mergulhar no emocionante mundo dos filmes de heróis que estão chegando aos cinemas no ano de 2024. Preparem-se para muitas curiosidades e expectativas que estão deixando todos os fãs ansiosos.
+
+Primeiramente, vamos falar sobre um filme que está gerando muita expectativa entre os fãs de quadrinhos e cinema: "The Avengers: Infinity Reborn". Depois do estrondoso sucesso de "Avengers: Endgame", os fãs estão ansiosos para ver o que os heróis mais poderosos da Terra irão enfrentar agora. Com um tempo de produção de três anos e um orçamento estimado em incríveis 300 milhões de dólares, espera-se que esse filme quebre recordes de bilheteria em todo o mundo. E não é para menos, afinal, após tantos anos acompanhando as aventuras dos Vingadores, todos estão ansiosos para ver como será o próximo capítulo dessa saga épica.
+
+Agora, vamos falar sobre um filme que está gerando curiosidade entre os fãs mais tradicionais dos quadrinhos: "The Batman: Gotham's Knight". Depois de várias encarnações do Cavaleiro das Trevas nas telonas, os fãs estão intrigados para ver como será essa nova interpretação do icônico herói. Com um tempo de produção de dois anos e um orçamento de 200 milhões de dólares, espera-se que "The Batman" traga uma abordagem sombria e realista ao mundo do Homem-Morcego. A expectativa é alta, especialmente após o sucesso de crítica dos trailers e teasers lançados até agora.
+
+Por último, mas não menos importante, vamos falar sobre um filme que está gerando uma enorme expectativa entre os fãs de heróis cósmicos: "Guardians of the Galaxy: Cosmic Odyssey". Depois do sucesso dos dois primeiros filmes da franquia, os fãs mal podem esperar para ver o que o diretor James Gunn preparou para essa próxima aventura intergaláctica. Com um tempo de produção de quatro anos e um orçamento de 250 milhões de dólares, "Guardians of the Galaxy 3" promete levar os fãs a novos mundos e apresentar personagens ainda mais incríveis. A receita potencial desse filme é estimada em mais de 1 bilhão de dólares, tornando-o um dos lançamentos mais aguardados do ano.
+
+E aí, pessoal, estão empolgados com os novos filmes de heróis que estão chegando em 2024? Com tantas novidades e expectativas, parece que teremos um ano épico para os fãs de quadrinhos e cinema. Não se esqueçam de deixar seus comentários abaixo e compartilhar suas próprias expectativas sobre esses filmes. E continuem ligados aqui no Canal IA para mais novidades e análises sobre o mundo dos heróis. Até a próxima!
